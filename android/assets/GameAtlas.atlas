@@ -1,0 +1,118 @@
+
+GameAtlas.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Amo
+  rotate: false
+  xy: 446, 52
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Bomb
+  rotate: false
+  xy: 2, 2
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+Boom
+  rotate: false
+  xy: 2, 118
+  size: 768, 128
+  orig: 768, 128
+  offset: 0, 0
+  index: -1
+Boom2
+  rotate: false
+  xy: 772, 21
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+Bullet
+  rotate: false
+  xy: 999, 36
+  size: 40, 9
+  orig: 40, 9
+  offset: 0, 0
+  index: -1
+Bullet2
+  rotate: false
+  xy: 512, 109
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+Health
+  rotate: false
+  xy: 1167, 182
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ShotEffect
+  rotate: false
+  xy: 2, 52
+  size: 376, 64
+  orig: 376, 64
+  offset: 0, 0
+  index: -1
+Tank
+  rotate: false
+  xy: 380, 52
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Tank_Blue
+  rotate: false
+  xy: 999, 181
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Tank_Green
+  rotate: false
+  xy: 1066, 114
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Tank_Grey
+  rotate: false
+  xy: 999, 114
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Tank_Red
+  rotate: false
+  xy: 1066, 181
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Tank_White
+  rotate: false
+  xy: 999, 47
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Tile
+  rotate: false
+  xy: 1066, 48
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Walls
+  rotate: false
+  xy: 1133, 150
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
